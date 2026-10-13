@@ -1,0 +1,10 @@
+{
+  "name": "AI Facial Expression Recognition & Research Analytics",
+  "description": "Research-grade facial expression analysis platform featuring temporal time-series, uncertainty-aware calibration, smart input quality diagnostics, model evaluation laboratory, and local-first privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
